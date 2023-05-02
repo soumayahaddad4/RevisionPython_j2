@@ -1,0 +1,20 @@
+"""
+Le type des données de python sont les suivants:
+int
+float
+complex
+bool
+str
+byte
+bytearray
+range
+list
+tuple
+set
+frozenset
+dictionnaire
+None
+"""
+a=25
+print(type(a))
+print(id(a))
